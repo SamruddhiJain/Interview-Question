@@ -1,0 +1,35 @@
+Here are 20 interview questions related to data types, operators, conditional statements, looping statements, and functions:
+----------------------------------------------------------------------------------------------------------------------
+Data Types
+----------------------------------------------------------------------------------------------------------------------
+What is the difference between a primitive data type and a non-primitive data type in programming?
+What are the primitive data types in your preferred programming language?
+What is the difference between integer and floating-point data types?
+What is a string data type? How is it different from a character data type?
+What is the maximum and minimum value that can be stored in an integer data type in your preferred programming language?
+----------------------------------------------------------------------------------------------------------------------
+Operators
+----------------------------------------------------------------------------------------------------------------------
+What is the difference between the '==' and '===' operators in JavaScript?
+What is the difference between the '&&' and '||' operators in programming?
+What is the difference between a unary and a binary operator in programming?
+What is the modulo operator (%) used for in programming?
+What is the order of precedence for arithmetic operators in programming?
+----------------------------------------------------------------------------------------------------------------------
+Conditional Statements
+----------------------------------------------------------------------------------------------------------------------
+What is the difference between 'if' and 'switch' statements in programming?
+What is a ternary operator and how is it used in conditional statements?
+What is the difference between '==', '!=', '>', '<', '>=' and '<=' operators used in conditional statements?
+What is a nested if statement and how is it used in programming?
+How can you simulate a switch-case statement using only if-else statements?
+----------------------------------------------------------------------------------------------------------------------
+Looping Statements
+----------------------------------------------------------------------------------------------------------------------
+What is the difference between a for loop and a while loop in programming?
+How can you terminate a loop prematurely in programming?
+What is an infinite loop and how can you avoid it in programming?
+What is a do-while loop and how is it used in programming?
+What is the difference between 'break' and 'continue' statements in programming?
+These are just some examples of interview questions related to data types, operators, conditional statements, looping statements, and functions. It's always good to do additional research and practice on these topics to prepare for a programming interview.
+----------------------------------------------------------------------------------------------------------------------
